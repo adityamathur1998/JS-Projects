@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+.couter-pg-bg-container{
+    height: 100vh;
+    background-color: #f1f5f8;
+}
+
+.couter-heading{
+    font-family: "Roboto";
+    font-size: 50px;
+    font-weight: 800;
+}
