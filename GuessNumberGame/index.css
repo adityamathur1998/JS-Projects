@@ -1,0 +1,9 @@
+.guess-game-img{
+    width: 50px;
+}
+
+.user-input {
+    outline: none;
+    font-size: 24px;
+    font-weight: 400;
+}
